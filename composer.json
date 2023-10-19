@@ -1,0 +1,16 @@
+{
+    "name": "diyar/visitors",
+    "description": "displays the site visitors",
+    "autoload": {
+        "psr-4": {
+            "Diyar\\Visitors\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "diyar azhir",
+            "email": "diyarazhir@gmail.com"
+        }
+    ],
+    "require": {}
+}
